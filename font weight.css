@@ -1,0 +1,23 @@
+.normal {
+    font-weight: normal; /* Berat normal, biasanya 400 */
+}
+
+.bold {
+    font-weight: bold; /* Berat tebal, biasanya 700 */
+}
+
+.bolder {
+    font-weight: bolder; /* Lebih tebal dari elemen induk */
+}
+
+.lighter {
+    font-weight: lighter; /* Lebih tipis dari elemen induk */
+}
+
+.weight-100 {
+    font-weight: 100; /* Sangat tipis */
+}
+
+.weight-900 {
+    font-weight: 900; /* Sangat tebal */
+}

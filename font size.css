@@ -1,0 +1,19 @@
+body {
+    font-size: 16px; /* Ukuran font default untuk body */
+}
+
+h1 {
+    font-size: 2em; /* 2 kali ukuran font elemen induk (32px) */
+}
+
+p {
+    font-size: 1rem; /* Sama dengan ukuran font root (16px) */
+}
+
+.large-text {
+    font-size: 1.5rem; /* 1.5 kali ukuran font root (24px) */
+}
+
+.small-text {
+    font-size: 0.75rem; /* 0.75 kali ukuran font root (12px) */
+}

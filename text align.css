@@ -1,0 +1,15 @@
+.left {
+    text-align: left; /* Teks diratakan ke kiri */
+}
+
+.right {
+    text-align: right; /* Teks diratakan ke kanan */
+}
+
+.center {
+    text-align: center; /* Teks diratakan ke tengah */
+}
+
+.justify {
+    text-align: justify; /* Teks diratakan penuh */
+}

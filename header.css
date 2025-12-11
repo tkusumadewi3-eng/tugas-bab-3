@@ -1,0 +1,20 @@
+/* Style the body */
+body {
+    font-family: Arial;
+    margin: 0;
+}
+
+/* Header/Logo Title */
+.header {
+    padding: 200px;
+    text-align: center;
+    background-image: url("pemandangan.img.jpg");
+    background-position: center;
+    color: white;
+    font-size: 30px;
+}
+/* Page Content */
+.content {
+    padding: 20px;
+    width: 50%;
+}
